@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc33bece6eb5dbde27c4ccbe2d8548a3fa09c1905",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc33bece6eb5dbde27c4ccbe2d8548a3fa09c1905",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Ether Wolf Club",
+  "SYMBOL": "EWC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/etherwolfclub",
+  "SHOW_BACKGROUND": true
+}
